@@ -10,7 +10,7 @@
 ## Webhook
 
 ### Payload URL
-- `http://<host>/slack/<slack-channel>`を設定
+- `https://<host>/slack/<slack-channel>`を設定
 
 ### Content Type
 - application/json
